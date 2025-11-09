@@ -1312,7 +1312,7 @@ span {
 }
 
 .inspair-section {
-  background: url(../../assets/img/ainspair/inspair-bg.png) no-repeat center center;
+  background: url(/epeople/img/jpg/last.jpg) no-repeat center center;
   background-size: cover;
 }
 .inspair-section .inspainr-thumb-box {
@@ -4812,7 +4812,7 @@ iframe {
   right: -100px;
   width: 100px;
   height: 100px;
-  background: rgba(247, 149, 30, 0.631372549);
+  background: #fff624;
   animation: zints1 2s linear infinite;
 }
 .preloader span:nth-child(2) {
@@ -4820,7 +4820,7 @@ iframe {
   left: -100px;
   width: 100px;
   height: 100px;
-  background: rgba(247, 149, 30, 0.631372549);
+  background: #fff624;
   animation: zints2 2s linear infinite;
 }
 .preloader span:nth-child(3) {
@@ -5434,7 +5434,7 @@ input.main-search-input::placeholder {
   position: relative;
 }
 .testimonial-innerbox::before {
-  background: url(../img/atestimonial/testimonial-big.png) no-repeat center center;
+  background: url(/epeople/img/jpg/faq_back.jpg) no-repeat center center;
   background-size: cover;
   width: 65%;
   height: 100%;
