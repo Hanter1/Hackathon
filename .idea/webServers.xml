@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ef7e2ae0-c2c3-433d-bf81-32f931ee304d" name="hoster" url="http://45.87.219.244">
-        <fileTransfer rootFolder="/public_html" host="45.87.219.244" port="21">
+      <webServer id="ca928de2-0994-45dc-87fb-a9a71bfe7222" name="test">
+        <fileTransfer accessType="SFTP" host="192.168.0.56" port="22" sshConfigId="45d452b0-2168-4821-9fc8-61fcb24d8a89" sshConfig="epeople@192.168.0.56:22 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

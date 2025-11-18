@@ -1,0 +1,45 @@
+# Laravel
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/bootstrap/cache
+
+# Environment
+.env
+.env.*.local
+.env.backup
+.env.production
+
+# Laravel Mix / Vite / npm
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+/public/build
+/public/css/app.css
+/public/js/app.js
+
+# Composer
+composer.lock
+auth.json
+
+# IDE / Editor
+/.idea
+/.vscode
+/.fleet
+/.zed
+/.phpactor.json
+
+# PHPUnit
+.phpunit.result.cache
+.phpunit.cache
+
+# OS / Misc
+.DS_Store
+Thumbs.db
+*.log
+
+# Docker volumes (локальные данные)
+db-data/
